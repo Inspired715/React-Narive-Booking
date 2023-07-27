@@ -2326,6 +2326,11 @@ cosmiconfig@^5.0.5, cosmiconfig@^5.1.0:
     js-yaml "^3.13.1"
     parse-json "^4.0.0"
 
+country-state-city@2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/country-state-city/-/country-state-city-2.1.0.tgz#136e23beabfc60a45d27eba0def59a0f45331fa3"
+  integrity sha512-hnPibejCjcy7ONiKy1tT0BhRWHzlqMG+vJn713w5p01BssJTwq6/JJ04raorGQHTQbGuBG3dW9AAhnAqzCMkXQ==
+
 cross-spawn@^6.0.0:
   version "6.0.5"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-6.0.5.tgz#4a5ec7c64dfae22c3a14124dbacdee846d80cbc4"
@@ -5549,6 +5554,11 @@ react-native-screens@^3.10.1:
   dependencies:
     react-freeze "^1.0.0"
     warn-once "^0.1.0"
+
+react-native-select-dropdown@^3.3.4:
+  version "3.3.4"
+  resolved "https://registry.yarnpkg.com/react-native-select-dropdown/-/react-native-select-dropdown-3.3.4.tgz#21633ef95e14c2509c9f839b3082e54d7938c2dc"
+  integrity sha512-Ld6BGGgCnbiv7uORAP+KnvDQiqeuqdlasKk9woJH9XtFMD44rwjKwelGzsDxFUM9hIAwZdac4UAFmOmXRaMeRg==
 
 react-native-vector-icons@^10.0.0:
   version "10.0.0"

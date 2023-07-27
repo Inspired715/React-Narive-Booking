@@ -4,6 +4,7 @@ import BackgroundImg from '../component/background';
 import SliderShow from '../component/slidershow'
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { ScrollView } from 'react-native-gesture-handler';
+import CountrySelector from '../component/countryState';
 
 export default function Home() {
   return (
@@ -12,7 +13,7 @@ export default function Home() {
         <View>
           <BackgroundImg />
           <SliderShow />
-          <BackgroundImg />
+          <CountrySelector />
         </View>
       </ScrollView>
     </SafeAreaView>
